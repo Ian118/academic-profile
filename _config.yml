@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Ian Lansdowne / Profile"
 title_separator          : "-"
 name                     : &name "Ian Lansdowne"
 description              : &description "personal description"
-url                      : https://ian118.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "academic-profile/" # the subpath of your site, e.g. "/blog"
+url                      : https://ian118.github.io
+baseurl                  : "academic-profile/"
 repository               : "ian118/academic-profile"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,10 +22,11 @@ repository               : "ian118/academic-profile"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Ian Lansdowne"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : |
+    Undergraduate Mechanical Engineering student at Texas A&M University
   location         : "College Station, TX"
   employer         : "Texas A&M University"
   uri              : # URL
@@ -83,7 +84,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
