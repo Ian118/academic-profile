@@ -1,6 +1,6 @@
 ---
 title: MEEN-408 Soft Gripper
-excerpt: 1 DoF soft gripper designed for MEEN-408 <i>Mechanics of Robotic Manipulators</i> for manipulating miscellaneous household objects<br/><img src='/images/MEEN408/Gripper.png' style='height:300px'/>
+excerpt: 1 DoF soft gripper designed for MEEN-408 <i>Mechanics of Robotic Manipulators</i> for manipulating miscellaneous household objects<br/><img src='/images/MEEN408/Gripper.png'/>
 collection: portfolio
 ---
 
