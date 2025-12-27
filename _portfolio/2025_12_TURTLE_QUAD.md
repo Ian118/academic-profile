@@ -14,4 +14,4 @@ Presentations: [Fall 2023](/files/QUAD_Presentation_Fall_2023.pdf), [Spring 2023
 
 | ![QUAD V2 at TURTLE Showcase](/images/QUAD/QUAD_V2_Showcase.jpg) | ![Mini QUAD V1](/images/QUAD/Mini_QUAD_V1.jpg) | ![QUAD at TEROS](/images/QUAD/QUAD_TEROS.jpg) | ![Mini QUAD V0 Balancing](/images/QUAD/Mini_QUAD_V0_Balance.webp) |
 | :--------------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :---------------------------------------------------------------: |
-|        QUAD V2 on display at 2025 TURTLE Project Showcase        |                 *Mini QUAD V1*                 | *QUAD V1 and Mini QUAD V1 at TEROS with Spot* |                     *Mini QUAD V0 Balancing*                      |
+|       *QUAD V2 on display at 2025 TURTLE Project Showcase*       |                 *Mini QUAD V1*                 | *QUAD V1 and Mini QUAD V1 at TEROS with Spot* |                     *Mini QUAD V0 Balancing*                      |
